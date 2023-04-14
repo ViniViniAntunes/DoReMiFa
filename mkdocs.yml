@@ -1,0 +1,16 @@
+site_name: Dó Ré Mi Fá
+repo_url: https://github.com/ViniViniAntunes/DoReMiFa
+repo_name: ViniViniAntunes/DoReMiFa
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/notas-musicais.png
+  favicon: assets/notas-musicais.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css

@@ -126,7 +126,9 @@ celerybeat.pid
 # Environments
 .env
 .venv
+pyvenv.cfg
 env/
+Scripts/
 venv/
 ENV/
 env.bak/
@@ -141,6 +143,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+icons.txt
 
 # mypy
 .mypy_cache/
